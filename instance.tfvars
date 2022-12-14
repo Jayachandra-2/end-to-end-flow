@@ -1,0 +1,5 @@
+ami = "ami-0beaa649c482330f7"
+ubuntu_ami ="ami-097a2df4ac947655f"
+instance_type = "t3.micro"
+medium_instance_type = "t3.medium"
+key_name = "cat-jaya"
